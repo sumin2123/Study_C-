@@ -18,11 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MemPtr2.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ac5ea8e3-1e9a-4185-8da2-32b8c592fbbc}</ProjectGuid>
-    <RootNamespace>My08템플릿</RootNamespace>
+    <ProjectGuid>{1ff88331-8a8e-441f-beff-bcbf16718c5a}</ProjectGuid>
+    <RootNamespace>My03멤버포인터연산자</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
